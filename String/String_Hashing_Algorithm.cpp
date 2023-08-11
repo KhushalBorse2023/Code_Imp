@@ -43,6 +43,5 @@ int main()
         }
     }
 cout<<distinct<<"\n";
-
     return 0;
 }
